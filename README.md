@@ -1,5 +1,4 @@
 # mi-v-smi_popup
-
 Deploy: 
 
 ТЗ:
