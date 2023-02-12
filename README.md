@@ -2,7 +2,7 @@
 
 Deploy: https://offlectra.github.io/mi-v-smi_popup/index.html
 
-Task:
+Task:  
 №1. Сверстать блок для мобильной (min-width: 320px), планшетной (min-width: 640px) и десктопной версий (min-width: 1200px). Шрифты, картинки использовать на своё усмотрение.
 
 №2. Сделать небольшое модальное окно на чистом JavaScript. Без jquery, bootstrap и прочего.
