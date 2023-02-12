@@ -1,6 +1,7 @@
 let fade = document.querySelector('.fade')
 let popup = document.querySelector('.modal');
 let popupBtn = document.querySelector('.button-block');
+let cross = document.querySelector('.cross');
 
 if(popupBtn) {
     popupBtn.addEventListener('click', e => {
@@ -15,10 +16,12 @@ if(popupBtn) {
         popup.classList.remove('active');
     })
 
-    popup.addEventListener('click', e => {
+    cross.addEventListener('click', e => {
         popupBtn.classList.remove('active');
         fade.classList.remove('active');
         popup.classList.remove('active');
     })
+
+
 
 }
