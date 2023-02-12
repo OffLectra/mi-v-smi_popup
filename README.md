@@ -1,6 +1,7 @@
 # mi-v-smi_popup
 
-Deploy: https://offlectra.github.io/mi-v-smi_popup/index.html
+Deploy: https://offlectra.github.io/mi-v-smi_popup/index.html  
+Страница проверяется в браузере Google Chrome последней версии.  
 
 Task:  
 №1. Сверстать блок для мобильной (min-width: 320px), планшетной (min-width: 640px) и десктопной версий (min-width: 1200px). Шрифты, картинки использовать на своё усмотрение.
